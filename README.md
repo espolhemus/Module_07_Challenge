@@ -15,9 +15,11 @@ The resutls of our analysis of the data is as follows:
 - As of the time the underlying data was provided, Pewlett-Hackard employeed a total of 240,124 employees, 72,458 of whom meet the criteria for approaching retirement elgibility age - a very significant percentage (30.18%) of the company's total workforce.
 
     -- Active Employees:
+    
 ![Active Employee Count](/Images/active_emp_count.png)
 
     -- Approaching Retirement Elgibility Employees:
+    
 ![Retirement Elgible Employee Count](/Images/retirement_elgible_emp_count.png)
 
 ### Breakdown by Current Titles
