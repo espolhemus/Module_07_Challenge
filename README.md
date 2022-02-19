@@ -16,7 +16,7 @@ The resutls of our analysis of the data is as follows:
     
 ![Active Employee Count](/Images/active_emp_count.png)
 
-![Retirement Elgible Employee Count](/Images/active_emp_count.png)
+![Retirement Elgible Employee Count](/Images/retirement_elgible_emp_count.png)
 
 ### Breakdown by Current Titles
 
