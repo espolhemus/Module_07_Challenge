@@ -47,12 +47,16 @@ In Summary, as a result of our analysis of the provided data, we would draw atte
 ### Roles to be Filled
 
 - As stated previously, based on the critieria that was provided, there are 72,458 employees who will meet the retirement elgibility age critera; a detailed breakdown of those potential vacancies by Department and current Title is as follows:
-   
+
+![Count of Retirement Elgible Employees by Dept and Title](/Images/count_of_reitiring_emp_by_dept_title_sql.png)
+
 ![Count of Retirement Elgible Employees by Dept and Title](/Images/count_of_reitiring_emp_by_dept_title.png)
 
 ### Mentorship Elgible Employees
 
-- As mentioned previously, based on the current Mentorship Elgibility criteria, there are very few employees elgible to serve as Mentors in relation to the number of employees approaching retirement elgibility age and the corresponding number of vacancies that are likely to need to be filled.  A table detailing the number of employees elgible to serve as Mentors and their current Department and Title is as follows:
-    
+- As mentioned previously, based on the current Mentorship Elgibility criteria, there are very few employees elgible to serve as Mentors in relation to the number of employees approaching retirement elgibility age and the corresponding number of vacancies that are likely to need to be filled.  A list detailing the number of employees elgible to serve as Mentors and their current Department and Title is as follows:
+
+![Count of Retirement Elgible Employees by Dept and Title](/Images/count_of_reitiring_emp_by_dept_title_sql.png)
+
 ![Count of Elgible Mentors by Dept and Title](/Images/mentors_by_dept_title.png)
 
