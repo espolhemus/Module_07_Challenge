@@ -42,5 +42,17 @@ The resutls of our analysis of the data is as follows:
 ![Count of Elgible Mentors](/Images/count_of_mentorship_elg_employees.png)
 
 ## Sumary
-Based on our analysis, we would suggest that the company consider the following recommendations:
+In Summary, as a result of our analysis of the provided data, we would draw attention to the following Conclusions:
+
+### Roles to be Filled
+
+- As stated previously, based on the critieria that was provided, there are 72,458 employees who will meet the retirement elgibility age critera; a detailed breakdown of those potential vacancies by Department and current Title is as follows:
+   
+![Count of Retirement Elgible Employees by Dept and Title](/Images/count_of_reitiring_emp_by_dept_title.png)
+
+### Mentorship Elgible Employees
+
+- Based on the current Mentorship Elgibility criteria, there are very few employees elgible to serve as Mentors, in relation to the number of employees approaching retirement elgibility age:
+    
+![Count of Elgible Mentors](/Images/count_of_mentorship_elg_employees.png)
 
