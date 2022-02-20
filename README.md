@@ -52,7 +52,7 @@ In Summary, as a result of our analysis of the provided data, we would draw atte
 
 ### Mentorship Elgible Employees
 
-- Based on the current Mentorship Elgibility criteria, there are very few employees elgible to serve as Mentors, in relation to the number of employees approaching retirement elgibility age:
+- As mentioned previously, based on the current Mentorship Elgibility criteria, there are very few employees elgible to serve as Mentors in relation to the number of employees approaching retirement elgibility age and the corresponding number of vacancies that are likely to need to be filled.  A table detailing the number of employees elgible to serve as Mentors and their current Department and Title is as follows:
     
-![Count of Elgible Mentors](/Images/count_of_mentorship_elg_employees.png)
+![Count of Elgible Mentors by Dept and Title](/Images/mentors_by_dept_title.png)
 
